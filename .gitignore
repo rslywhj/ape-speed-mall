@@ -1,0 +1,12 @@
+**/*.iml
+**/*.idea
+**/target
+**/out
+**/*.log
+**idea/**
+.idea/**
+**/*.svn
+target/**
+**/package-lock.json
+**/node_modules/**
+**/dist/**
